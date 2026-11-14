@@ -7,7 +7,7 @@ project:
   # keywords: []
   authors: 
     - name: Joanan van Loo
-    - name: Annefleur ???
+    - name: Annefleur
 
   github: https://github.com/JoAnananas/ip2-boltzman
   plugins:
